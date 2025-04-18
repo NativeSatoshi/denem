@@ -1,1 +1,1 @@
-# denem
+Bu benim ilk commit’im! 🎉
